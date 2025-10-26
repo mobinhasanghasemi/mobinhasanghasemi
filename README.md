@@ -56,12 +56,12 @@
 
 | **مهارت** | **سطح تسلط** |
 |------------|---------------|
-| 🐍 **Python** | ![60%](https://img.shields.io/badge/90%25-3776AB?style=for-the-badge&logo=python&logoColor=yellow) |
-| 🌐 **Django** | ![60%](https://img.shields.io/badge/85%25-092E20?style=for-the-badge&logo=django&logoColor=green) |
-| ⚡ **JavaScript** | ![30%](https://img.shields.io/badge/70%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| 🎨 **HTML/CSS** | ![50%](https://img.shields.io/badge/80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| 🎯 **Tailwind CSS** | ![40%](https://img.shields.io/badge/75%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| 📱 **Bootstrap** | ![30%](https://img.shields.io/badge/70%25-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| 🐍 **Python** | ![60%](https://img.shields.io/badge/60%25-3776AB?style=for-the-badge&logo=python&logoColor=yellow) |
+| 🌐 **Django** | ![60%](https://img.shields.io/badge/60%25-092E20?style=for-the-badge&logo=django&logoColor=green) |
+| ⚡ **JavaScript** | ![30%](https://img.shields.io/badge/30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| 🎨 **HTML/CSS** | ![50%](https://img.shields.io/badge/50%25-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| 🎯 **Tailwind CSS** | ![40%](https://img.shields.io/badge/40%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| 📱 **Bootstrap** | ![30%](https://img.shields.io/badge/30%25-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
 | 🔍 **OpenCV** | ![60%](https://img.shields.io/badge/60%25-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
 | 🗄️ **SQL Server** | ![65%](https://img.shields.io/badge/65%25-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
 | 📊 **Computer Vision** | ![55%](https://img.shields.io/badge/55%25-FF6F61?style=for-the-badge) |
