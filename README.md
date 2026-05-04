@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Vazirmatn&weight=900&size=42&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Mobin+Hasanghasemi;🔥+mid+Backend+Developer+🔥;Python+%7C+Django+%7C+OpenCV;Coding+the+Future+%7C+18+years+old+🇮🇷" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Vazirmatn&weight=900&size=42&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Mobin+Hasanghasemi;🔥+Mid+Level+Backend+Developer+🔥;Python+%7C+Django+%7C+OpenCV;Coding+the+Future+%7C+18+years+old+🇮🇷" />
 
 <br>
 
@@ -25,13 +25,12 @@
 🔹 **موقعیت:** ایران، تهران 🇮🇷  
 🔹 **تخصص:** Backend Development, API Design, Microservices  
 🔹 **در حال یادگیری:** Docker, Kubernetes  
-🔹 **هدف:** تبدیل شدن به یک Software Architect حرفه‌ای  
-🔹 **شعار:** "کد تمیز، عملکرد بالا، ذهن باز"
+🔹 **هدف:** تبدیل شدن به یک Software Architect حرفه‌ای
 
 </td>
 <td width="40%" align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NkN2M5bGQ5cmtsdmZ4Y3o0d3FpOWF3cG14NGl5Y2Y2Nnl6Y2Z3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NkN2M5bGQ5cmtsdmZ4Y3o0d3FpOWF3cG14NGl5Y2Y2Nnl6Y2Z3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
 </td>
 </tr>
@@ -43,8 +42,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mobinhasanghasemi&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9&border_color=FF6B6B" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinhasanghasemi&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&border_color=FF6B6B" width="49%" />
 
 <br><br>
 
@@ -101,7 +98,6 @@
 </div>
 
 ---
-
 
 ## 🏆 **دستاوردها**
 
@@ -160,6 +156,17 @@
 | 🔗 **LinkedIn** | [mobin-hasanghasemi](https://linkedin.com/in/mobin-hasanghasemi) |
 | 🐙 **GitHub** | [mobinhasanghasemi](https://github.com/mobinhasanghasemi) |
 
+</div>
+
+---
+
+## 🎬 **لحظاتی از دنیای برنامه‌نویسی**
+
+<div align="center">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RxbW1jM3locDc0c2Nudzh6bnZ5NHRxbmRjdW5xYmtudGI4cGxvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="300" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3UxZ2Q1eWZoeWlpaWJvN2x3YzZvNGRoY3Q0c2I4c3B4a3N4bG5uZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FwcmVjdWt5Y2h6anJkY3A5Y2JkNXZoaWZ5aHZ6Z2R0cHl5c3ZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 
 </div>
 
@@ -174,7 +181,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=12" width="100%" />
 
 </div>
-
-
-
-الان خوب شده ولی میخوام انیمیشنی و اینا استایل زیبایی فول کنی توش رو خیلی خفن و زیبا
