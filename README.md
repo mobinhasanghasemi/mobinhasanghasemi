@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Vazirmatn&weight=900&size=42&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Mobin+Hasanghasemi;🔥+Senior+Backend+Developer+🔥;Python+%7C+Django+%7C+OpenCV;Coding+the+Future+%7C+18+years+old+🇮🇷" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Vazirmatn&weight=900&size=42&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Mobin+Hasanghasemi;🔥+mid+Backend+Developer+🔥;Python+%7C+Django+%7C+OpenCV;Coding+the+Future+%7C+18+years+old+🇮🇷" />
 
 <br>
 
@@ -23,8 +23,8 @@
 
 🔹 **سن:** 18 سال | **تجربه:** ۲ سال تخصصی Django  
 🔹 **موقعیت:** ایران، تهران 🇮🇷  
-🔹 **تخصص:** Backend Development, API Design, OpenCV  
-🔹 **در حال یادگیری:** Docker, Kubernetes, Microservices  
+🔹 **تخصص:** Backend Development, API Design, Microservices  
+🔹 **در حال یادگیری:** Docker, Kubernetes  
 🔹 **هدف:** تبدیل شدن به یک Software Architect حرفه‌ای  
 🔹 **شعار:** "کد تمیز، عملکرد بالا، ذهن باز"
 
