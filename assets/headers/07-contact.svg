@@ -18,8 +18,8 @@
   </defs>
 
   <path d="M26 26 V14 a8 8 0 0 1 8-8 h14" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" opacity="0.85"/>
-  <text x="52" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="43" font-weight="700" letter-spacing="1" fill="#38BDF8" opacity="0.28" filter="url(#blurl)">About Me</text>
-  <text x="52" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="43" font-weight="700" letter-spacing="1" fill="#EAF1FB" filter="url(#glow)">About Me</text>
+  <text x="52" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="43" font-weight="700" letter-spacing="1" fill="#38BDF8" opacity="0.28" filter="url(#blurl)">Contact</text>
+  <text x="52" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="43" font-weight="700" letter-spacing="1" fill="#EAF1FB" filter="url(#glow)">Contact</text>
 
   <rect x="24" y="80" width="1176" height="8" rx="4" fill="url(#g)" opacity="0.22" filter="url(#blurl)"/>
   <rect x="24" y="82" width="1176" height="2" rx="1" fill="url(#g)" opacity="0.9"/>

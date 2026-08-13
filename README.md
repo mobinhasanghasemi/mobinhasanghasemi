@@ -46,8 +46,12 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mobinhasanghasemi&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=B9C6D8&icon_color=A78BFA&ring_color=38BDF8&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mobinhasanghasemi&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=38BDF8&text_color=B9C6D8&icon_color=A78BFA&bg_color=0D1117" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=mobinhasanghasemi&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mobinhasanghasemi&theme=github_dark" width="48%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobinhasanghasemi&theme=github_dark" width="92%" />
 
 </p>
 
@@ -69,25 +73,13 @@
 
 <br>
 
-<!-- ============ 05 PROJECTS ============ -->
+<!-- ============ 05 ACTIVITY ============ -->
 
-<img src="assets/headers/05-projects.svg" width="100%" />
-
-<img src="assets/projects.svg" width="100%" />
-
-<br>
-
-<!-- ============ 06 ACTIVITY ============ -->
-
-<img src="assets/headers/06-activity.svg" width="100%" />
+<img src="assets/headers/05-activity.svg" width="100%" />
 
 <p align="center">
 
-<img src="https://ghchart.rshah.org/38BDF8/mobinhasanghasemi" width="88%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mobinhasanghasemi&theme=dark&hide_border=true&background=0D1117&stroke=21262D&ring=38BDF8&fire=A855F7&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=8B949E" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=mobinhasanghasemi&theme=dark&hide_border=true&background=0D1117&stroke=21262D&ring=38BDF8&fire=A855F7&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=8B949E" width="60%" />
 
 <br><br>
 
@@ -97,17 +89,17 @@
 
 <br>
 
-<!-- ============ 07 VISION ============ -->
+<!-- ============ 06 VISION ============ -->
 
-<img src="assets/headers/07-vision.svg" width="100%" />
+<img src="assets/headers/06-vision.svg" width="100%" />
 
 <img src="assets/vision.svg" width="100%" />
 
 <br>
 
-<!-- ============ 08 CONTACT ============ -->
+<!-- ============ 07 CONTACT ============ -->
 
-<img src="assets/headers/08-contact.svg" width="100%" />
+<img src="assets/headers/07-contact.svg" width="100%" />
 
 <div align="center">
 
@@ -129,8 +121,4 @@
 <br>
 <br>
 
-<p align="center">
-<sub>M O B I N &nbsp; H A S A N G H A S E M I</sub>
-<br><br>
-<sub>Crafted with Django and a dark theme. Open to collaboration and new opportunities.</sub>
-</p>
+<img src="assets/footer.svg" width="100%" />

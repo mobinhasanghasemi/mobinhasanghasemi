@@ -1,79 +1,120 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="424" viewBox="0 0 1200 424">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="404" viewBox="0 0 1200 404">
   <defs>
     <linearGradient id="gT" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#38BDF8"/>
       <stop offset="1" stop-color="#A855F7"/>
     </linearGradient>
+    <linearGradient id="gE" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.55" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <radialGradient id="glowTL" cx="0.05" cy="0.05" r="0.9">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.12"/>
+      <stop offset="0.6" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="iGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
-  <rect x="0" y="0" width="380" height="200" rx="22" fill="#101A29" stroke="rgba(56,189,248,0.22)"/>
-  <rect x="24" y="22" width="52" height="3" rx="1.5" fill="url(#gT)"/>
-  <text x="346" y="38" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="rgba(125,211,252,0.5)">01</text>
-  <g transform="translate(30,46)" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="6" y="8" width="28" height="10" rx="3"/>
-    <rect x="6" y="22" width="28" height="10" rx="3"/>
-    <circle cx="11.5" cy="13" r="1.3" fill="#38BDF8" stroke="none"/>
-    <circle cx="11.5" cy="27" r="1.3" fill="#38BDF8" stroke="none"/>
-  </g>
-  <text x="90" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#E9F0FA">Backend Development</text>
-  <text x="90" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8FA0B8">Server-side systems, business logic,</text>
-  <text x="90" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8FA0B8">data handling and automation.</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
 
-  <rect x="410" y="0" width="380" height="200" rx="22" fill="#101A29" stroke="rgba(56,189,248,0.22)"/>
-  <rect x="434" y="22" width="52" height="3" rx="1.5" fill="url(#gT)"/>
-  <text x="756" y="38" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="rgba(125,211,252,0.5)">02</text>
-  <g transform="translate(440,46)" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M15 7 L7 20 L15 33"/>
-    <path d="M25 7 L33 20 L25 33"/>
-  </g>
-  <text x="500" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#E9F0FA">API Design</text>
-  <text x="500" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8FA0B8">RESTful endpoints, serialization,</text>
-  <text x="500" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8FA0B8">auth, permissions and clean contracts.</text>
+    <rect x="0" y="0" width="392" height="196" rx="22" fill="#0E1726"/>
+    <rect x="0" y="0" width="392" height="196" rx="22" fill="url(#glowTL)"/>
+    <rect x="1" y="1" width="390" height="96" rx="21" fill="url(#sheen)"/>
+    <rect x="0" y="0" width="392" height="196" rx="22" fill="none" stroke="url(#gE)" stroke-width="1.3" opacity="0.45"/>
+    <rect x="28" y="22" width="56" height="3" rx="1.5" fill="url(#gT)"/>
+    <text x="356" y="40" text-anchor="end" font-size="12" font-weight="600" fill="rgba(125,211,252,0.55)">01</text>
+    <g transform="translate(36,50) scale(1.1)" fill="none" stroke="url(#gT)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iGlow)">
+      <rect x="6" y="8" width="28" height="10" rx="3"/>
+      <rect x="6" y="22" width="28" height="10" rx="3"/>
+      <circle cx="11.5" cy="13" r="1.3" fill="url(#gT)" stroke="none"/>
+      <circle cx="11.5" cy="27" r="1.3" fill="url(#gT)" stroke="none"/>
+    </g>
+    <text x="92" y="70" font-size="17" font-weight="700" fill="#EDF3FC">Backend Development</text>
+    <text x="92" y="98" font-size="13.5" fill="#94A5BC">Server-side systems, business logic,</text>
+    <text x="92" y="120" font-size="13.5" fill="#94A5BC">data handling and automation.</text>
 
-  <rect x="820" y="0" width="380" height="200" rx="22" fill="#101A29" stroke="rgba(56,189,248,0.22)"/>
-  <rect x="844" y="22" width="52" height="3" rx="1.5" fill="url(#gT)"/>
-  <text x="1166" y="38" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="rgba(125,211,252,0.5)">03</text>
-  <g transform="translate(850,46)" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <ellipse cx="20" cy="9" rx="13" ry="5"/>
-    <path d="M7 9 v12 c0 2.8 5.8 5 13 5 s13 -2.2 13 -5 V9"/>
-    <path d="M7 15 c0 2.8 5.8 5 13 5 s13 -2.2 13 -5"/>
-  </g>
-  <text x="910" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#E9F0FA">Database Engineering</text>
-  <text x="910" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8FA0B8">Schemas, relations, indexes,</text>
-  <text x="910" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8FA0B8">query optimization and integrity.</text>
+    <rect x="404" y="0" width="392" height="196" rx="22" fill="#0E1726"/>
+    <rect x="404" y="0" width="392" height="196" rx="22" fill="url(#glowTL)"/>
+    <rect x="405" y="1" width="390" height="96" rx="21" fill="url(#sheen)"/>
+    <rect x="404" y="0" width="392" height="196" rx="22" fill="none" stroke="url(#gE)" stroke-width="1.3" opacity="0.45"/>
+    <rect x="432" y="22" width="56" height="3" rx="1.5" fill="url(#gT)"/>
+    <text x="760" y="40" text-anchor="end" font-size="12" font-weight="600" fill="rgba(125,211,252,0.55)">02</text>
+    <g transform="translate(440,50) scale(1.1)" fill="none" stroke="url(#gT)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iGlow)">
+      <path d="M15 7 L7 20 L15 33"/>
+      <path d="M25 7 L33 20 L25 33"/>
+    </g>
+    <text x="496" y="70" font-size="17" font-weight="700" fill="#EDF3FC">API Design</text>
+    <text x="496" y="98" font-size="13.5" fill="#94A5BC">RESTful endpoints, serialization,</text>
+    <text x="496" y="120" font-size="13.5" fill="#94A5BC">auth, permissions and clean contracts.</text>
 
-  <rect x="0" y="224" width="380" height="200" rx="22" fill="#101A29" stroke="rgba(56,189,248,0.22)"/>
-  <rect x="24" y="246" width="52" height="3" rx="1.5" fill="url(#gT)"/>
-  <text x="346" y="262" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="rgba(125,211,252,0.5)">04</text>
-  <g transform="translate(30,270)" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M8 9 L20 3 L32 9 L20 15 Z"/>
-    <path d="M8 17 L20 11 L32 17 L20 23 Z"/>
-    <path d="M8 25 L20 19 L32 25 L20 31 Z"/>
-  </g>
-  <text x="90" y="294" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#E9F0FA">System Architecture</text>
-  <text x="90" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8FA0B8">Modular design, layering and</text>
-  <text x="90" y="344" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8FA0B8">separation of concerns.</text>
+    <rect x="808" y="0" width="392" height="196" rx="22" fill="#0E1726"/>
+    <rect x="808" y="0" width="392" height="196" rx="22" fill="url(#glowTL)"/>
+    <rect x="809" y="1" width="390" height="96" rx="21" fill="url(#sheen)"/>
+    <rect x="808" y="0" width="392" height="196" rx="22" fill="none" stroke="url(#gE)" stroke-width="1.3" opacity="0.45"/>
+    <rect x="836" y="22" width="56" height="3" rx="1.5" fill="url(#gT)"/>
+    <text x="1164" y="40" text-anchor="end" font-size="12" font-weight="600" fill="rgba(125,211,252,0.55)">03</text>
+    <g transform="translate(844,50) scale(1.1)" fill="none" stroke="url(#gT)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iGlow)">
+      <ellipse cx="20" cy="9" rx="13" ry="5"/>
+      <path d="M7 9 v12 c0 2.8 5.8 5 13 5 s13 -2.2 13 -5 V9"/>
+      <path d="M7 15 c0 2.8 5.8 5 13 5 s13 -2.2 13 -5"/>
+    </g>
+    <text x="900" y="70" font-size="17" font-weight="700" fill="#EDF3FC">Database Engineering</text>
+    <text x="900" y="98" font-size="13.5" fill="#94A5BC">Schemas, relations, indexes,</text>
+    <text x="900" y="120" font-size="13.5" fill="#94A5BC">query optimization and integrity.</text>
 
-  <rect x="410" y="224" width="380" height="200" rx="22" fill="#101A29" stroke="rgba(56,189,248,0.22)"/>
-  <rect x="434" y="246" width="52" height="3" rx="1.5" fill="url(#gT)"/>
-  <text x="756" y="262" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="rgba(125,211,252,0.5)">05</text>
-  <g transform="translate(440,270)" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M7 26 a13 13 0 1 1 26 0"/>
-    <path d="M20 24 L27 15"/>
-    <circle cx="27" cy="15" r="2.5"/>
-  </g>
-  <text x="500" y="294" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#E9F0FA">Performance Optimization</text>
-  <text x="500" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8FA0B8">Query tuning, caching and</text>
-  <text x="500" y="344" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8FA0B8">response-time reduction.</text>
+    <rect x="0" y="208" width="392" height="196" rx="22" fill="#0E1726"/>
+    <rect x="0" y="208" width="392" height="196" rx="22" fill="url(#glowTL)"/>
+    <rect x="1" y="209" width="390" height="96" rx="21" fill="url(#sheen)"/>
+    <rect x="0" y="208" width="392" height="196" rx="22" fill="none" stroke="url(#gE)" stroke-width="1.3" opacity="0.45"/>
+    <rect x="28" y="230" width="56" height="3" rx="1.5" fill="url(#gT)"/>
+    <text x="356" y="248" text-anchor="end" font-size="12" font-weight="600" fill="rgba(125,211,252,0.55)">04</text>
+    <g transform="translate(36,258) scale(1.1)" fill="none" stroke="url(#gT)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iGlow)">
+      <path d="M8 9 L20 3 L32 9 L20 15 Z"/>
+      <path d="M8 17 L20 11 L32 17 L20 23 Z"/>
+      <path d="M8 25 L20 19 L32 25 L20 31 Z"/>
+    </g>
+    <text x="92" y="278" font-size="17" font-weight="700" fill="#EDF3FC">System Architecture</text>
+    <text x="92" y="306" font-size="13.5" fill="#94A5BC">Modular design, layering and</text>
+    <text x="92" y="328" font-size="13.5" fill="#94A5BC">separation of concerns.</text>
 
-  <rect x="820" y="224" width="380" height="200" rx="22" fill="#101A29" stroke="rgba(56,189,248,0.22)"/>
-  <rect x="844" y="246" width="52" height="3" rx="1.5" fill="url(#gT)"/>
-  <text x="1166" y="262" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="rgba(125,211,252,0.5)">06</text>
-  <g transform="translate(850,270)" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="7" y="7" width="26" height="26" rx="6"/>
-    <path d="M14.5 20 L18.5 24 L25.5 15.5"/>
+    <rect x="404" y="208" width="392" height="196" rx="22" fill="#0E1726"/>
+    <rect x="404" y="208" width="392" height="196" rx="22" fill="url(#glowTL)"/>
+    <rect x="405" y="209" width="390" height="96" rx="21" fill="url(#sheen)"/>
+    <rect x="404" y="208" width="392" height="196" rx="22" fill="none" stroke="url(#gE)" stroke-width="1.3" opacity="0.45"/>
+    <rect x="432" y="230" width="56" height="3" rx="1.5" fill="url(#gT)"/>
+    <text x="760" y="248" text-anchor="end" font-size="12" font-weight="600" fill="rgba(125,211,252,0.55)">05</text>
+    <g transform="translate(440,258) scale(1.1)" fill="none" stroke="url(#gT)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iGlow)">
+      <path d="M7 26 a13 13 0 1 1 26 0"/>
+      <path d="M20 24 L27 15"/>
+      <circle cx="27" cy="15" r="2.5"/>
+    </g>
+    <text x="496" y="278" font-size="17" font-weight="700" fill="#EDF3FC">Performance Optimization</text>
+    <text x="496" y="306" font-size="13.5" fill="#94A5BC">Query tuning, caching and</text>
+    <text x="496" y="328" font-size="13.5" fill="#94A5BC">response-time reduction.</text>
+
+    <rect x="808" y="208" width="392" height="196" rx="22" fill="#0E1726"/>
+    <rect x="808" y="208" width="392" height="196" rx="22" fill="url(#glowTL)"/>
+    <rect x="809" y="209" width="390" height="96" rx="21" fill="url(#sheen)"/>
+    <rect x="808" y="208" width="392" height="196" rx="22" fill="none" stroke="url(#gE)" stroke-width="1.3" opacity="0.45"/>
+    <rect x="836" y="230" width="56" height="3" rx="1.5" fill="url(#gT)"/>
+    <text x="1164" y="248" text-anchor="end" font-size="12" font-weight="600" fill="rgba(125,211,252,0.55)">06</text>
+    <g transform="translate(844,258) scale(1.1)" fill="none" stroke="url(#gT)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iGlow)">
+      <rect x="7" y="7" width="26" height="26" rx="6"/>
+      <path d="M14.5 20 L18.5 24 L25.5 15.5"/>
+    </g>
+    <text x="900" y="278" font-size="17" font-weight="700" fill="#EDF3FC">Clean Code</text>
+    <text x="900" y="306" font-size="13.5" fill="#94A5BC">Readable, tested, maintainable</text>
+    <text x="900" y="328" font-size="13.5" fill="#94A5BC">code with clear boundaries.</text>
   </g>
-  <text x="910" y="294" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#E9F0FA">Clean Code</text>
-  <text x="910" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8FA0B8">Readable, tested, maintainable</text>
-  <text x="910" y="344" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8FA0B8">code with clear boundaries.</text>
 </svg>

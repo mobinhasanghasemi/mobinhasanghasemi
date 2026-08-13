@@ -5,82 +5,104 @@
       <stop offset="0.5" stop-color="#818CF8"/>
       <stop offset="1" stop-color="#A855F7"/>
     </linearGradient>
-    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.10"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
-    </linearGradient>
     <linearGradient id="gT" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#22D3EE"/>
       <stop offset="1" stop-color="#A855F7"/>
     </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowTL" cx="0" cy="0" r="0.8">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.13"/>
+      <stop offset="0.55" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBR" cx="1" cy="1" r="0.8">
+      <stop offset="0" stop-color="#A855F7" stop-opacity="0.10"/>
+      <stop offset="0.55" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
     <filter id="ds" x="-20%" y="-20%" width="140%" height="160%">
-      <feDropShadow dx="0" dy="14" stdDeviation="22" flood-color="#1D4ED8" flood-opacity="0.30"/>
+      <feDropShadow dx="0" dy="14" stdDeviation="24" flood-color="#1D4ED8" flood-opacity="0.28"/>
     </filter>
   </defs>
 
-  <rect x="3" y="3" width="614" height="662" rx="28" fill="#0D1524" filter="url(#ds)"/>
-  <rect x="4" y="4" width="612" height="344" rx="26" fill="url(#sheen)"/>
-  <rect x="4" y="4" width="612" height="660" rx="26" fill="none" stroke="url(#gEdge)" stroke-width="1.5" opacity="0.65"/>
+  <rect x="3" y="3" width="614" height="662" rx="28" fill="#0C1423" filter="url(#ds)"/>
+  <rect x="3" y="3" width="614" height="330" rx="26" fill="url(#glowTL)"/>
+  <rect x="3" y="338" width="614" height="330" rx="26" fill="url(#glowBR)"/>
+  <rect x="4" y="4" width="612" height="320" rx="26" fill="url(#sheen)"/>
+  <rect x="4" y="4" width="612" height="660" rx="26" fill="none" stroke="url(#gEdge)" stroke-width="1.5" opacity="0.6"/>
 
-  <text x="36" y="46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="4" fill="#22D3EE">// PROFILE SUMMARY</text>
+  <path d="M20 44 V26 a8 8 0 0 1 8-8 h20" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  <path d="M600 624 V642 a8 8 0 0 1-8 8 h-20" fill="none" stroke="#A855F7" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+
+  <circle cx="574" cy="42" r="27" fill="#0E1728" stroke="url(#gEdge)" stroke-width="1.5" opacity="0.9"/>
+  <circle cx="574" cy="42" r="34" fill="none" stroke="url(#gEdge)" stroke-width="1" opacity="0.25"/>
+  <text x="574" y="49" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#EAF1FB">M.H</text>
+
+  <rect x="20" y="37" width="9" height="9" rx="2.5" fill="url(#gT)"/>
+  <text x="38" y="46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="4" fill="#22D3EE">PROFILE SUMMARY</text>
   <rect x="36" y="62" width="548" height="1" fill="url(#gT)" opacity="0.35"/>
 
-  <text x="36" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B4C1D4">Backend developer focused on building clean,</text>
-  <text x="36" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B4C1D4">scalable and maintainable systems.</text>
+  <text x="36" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B7C5D8">Backend developer focused on building clean,</text>
+  <text x="36" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B7C5D8">scalable and maintainable systems.</text>
 
-  <text x="36" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B4C1D4">I work mainly with Python and Django ecosystem,</text>
-  <text x="36" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B4C1D4">designing REST APIs, database structures</text>
-  <text x="36" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B4C1D4">and reliable backend architectures.</text>
+  <text x="36" y="160" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B7C5D8">I work mainly with Python and Django ecosystem,</text>
+  <text x="36" y="188" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B7C5D8">designing REST APIs, database structures</text>
+  <text x="36" y="216" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B7C5D8">and reliable backend architectures.</text>
 
-  <text x="36" y="248" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B4C1D4">I enjoy learning software architecture,</text>
-  <text x="36" y="276" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B4C1D4">improving performance, writing clean code</text>
-  <text x="36" y="304" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B4C1D4">and solving real-world problems.</text>
+  <text x="36" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B7C5D8">I enjoy learning software architecture,</text>
+  <text x="36" y="278" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B7C5D8">improving performance, writing clean code</text>
+  <text x="36" y="306" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#B7C5D8">and solving real-world problems.</text>
 
   <rect x="36" y="344" width="548" height="1" fill="url(#gT)" opacity="0.35"/>
 
-  <text x="36" y="372" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="3.5" fill="#8B9BB3">DEVELOPER IDENTITY</text>
+  <rect x="24" y="365" width="7" height="7" rx="2" fill="#22D3EE" transform="rotate(45 27.5 368.5)"/>
+  <text x="40" y="374" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="3.5" fill="#8B9BB3">DEVELOPER IDENTITY</text>
 
-  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#CBD6E6">
-    <rect x="36" y="386" width="148" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#C9D6E6">
+    <rect x="36" y="386" width="148" height="36" rx="10" fill="rgba(56,189,248,0.07)" stroke="rgba(56,189,248,0.35)" stroke-width="1.2"/>
     <text x="48" y="409">Backend Engineer</text>
-    <rect x="196" y="386" width="156" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+    <rect x="196" y="386" width="156" height="36" rx="10" fill="rgba(56,189,248,0.07)" stroke="rgba(56,189,248,0.35)" stroke-width="1.2"/>
     <text x="208" y="409">Django Enthusiast</text>
-    <rect x="364" y="386" width="152" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+    <rect x="364" y="386" width="152" height="36" rx="10" fill="rgba(56,189,248,0.07)" stroke="rgba(56,189,248,0.35)" stroke-width="1.2"/>
     <text x="376" y="409">Database-Focused</text>
 
-    <rect x="36" y="434" width="176" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+    <rect x="36" y="434" width="176" height="36" rx="10" fill="rgba(56,189,248,0.07)" stroke="rgba(56,189,248,0.35)" stroke-width="1.2"/>
     <text x="48" y="457">Open Source Learner</text>
-    <rect x="224" y="434" width="134" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+    <rect x="224" y="434" width="134" height="36" rx="10" fill="rgba(56,189,248,0.07)" stroke="rgba(56,189,248,0.35)" stroke-width="1.2"/>
     <text x="236" y="457">System Design</text>
-    <rect x="370" y="434" width="146" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+    <rect x="370" y="434" width="146" height="36" rx="10" fill="rgba(56,189,248,0.07)" stroke="rgba(56,189,248,0.35)" stroke-width="1.2"/>
     <text x="382" y="457">Always Learning</text>
   </g>
 
   <rect x="36" y="496" width="548" height="1" fill="url(#gT)" opacity="0.35"/>
 
-  <text x="36" y="524" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="3.5" fill="#8B9BB3">MAIN STACK</text>
+  <rect x="24" y="517" width="7" height="7" rx="2" fill="#22D3EE" transform="rotate(45 27.5 520.5)"/>
+  <text x="40" y="526" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="3.5" fill="#8B9BB3">MAIN STACK</text>
 
-  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#CBD6E6">
-    <rect x="36" y="538" width="70" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#CBD7E7">
+    <rect x="36" y="538" width="70" height="36" rx="10" fill="rgba(168,85,247,0.06)" stroke="rgba(168,85,247,0.30)" stroke-width="1.2"/>
     <text x="48" y="561">Python</text>
-    <rect x="118" y="538" width="70" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+    <rect x="118" y="538" width="70" height="36" rx="10" fill="rgba(168,85,247,0.06)" stroke="rgba(168,85,247,0.30)" stroke-width="1.2"/>
     <text x="130" y="561">Django</text>
-    <rect x="200" y="538" width="174" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+    <rect x="200" y="538" width="174" height="36" rx="10" fill="rgba(168,85,247,0.06)" stroke="rgba(168,85,247,0.30)" stroke-width="1.2"/>
     <text x="212" y="561">Django REST Framework</text>
-    <rect x="386" y="538" width="98" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+    <rect x="386" y="538" width="98" height="36" rx="10" fill="rgba(168,85,247,0.06)" stroke="rgba(168,85,247,0.30)" stroke-width="1.2"/>
     <text x="398" y="561">PostgreSQL</text>
 
-    <rect x="36" y="586" width="50" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+    <rect x="36" y="586" width="50" height="36" rx="10" fill="rgba(168,85,247,0.06)" stroke="rgba(168,85,247,0.30)" stroke-width="1.2"/>
     <text x="48" y="609">SQL</text>
-    <rect x="98" y="586" width="58" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+    <rect x="98" y="586" width="58" height="36" rx="10" fill="rgba(168,85,247,0.06)" stroke="rgba(168,85,247,0.30)" stroke-width="1.2"/>
     <text x="110" y="609">HTML</text>
-    <rect x="168" y="586" width="50" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+    <rect x="168" y="586" width="50" height="36" rx="10" fill="rgba(168,85,247,0.06)" stroke="rgba(168,85,247,0.30)" stroke-width="1.2"/>
     <text x="180" y="609">CSS</text>
-    <rect x="230" y="586" width="98" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+    <rect x="230" y="586" width="98" height="36" rx="10" fill="rgba(168,85,247,0.06)" stroke="rgba(168,85,247,0.30)" stroke-width="1.2"/>
     <text x="242" y="609">JavaScript</text>
-    <rect x="340" y="586" width="112" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+    <rect x="340" y="586" width="112" height="36" rx="10" fill="rgba(168,85,247,0.06)" stroke="rgba(168,85,247,0.30)" stroke-width="1.2"/>
     <text x="352" y="609">Tailwind CSS</text>
-    <rect x="464" y="586" width="92" height="36" rx="10" fill="#0E1626" stroke="rgba(56,189,248,0.30)" stroke-width="1.2"/>
+    <rect x="464" y="586" width="92" height="36" rx="10" fill="rgba(168,85,247,0.06)" stroke="rgba(168,85,247,0.30)" stroke-width="1.2"/>
     <text x="476" y="609">Bootstrap</text>
   </g>
+
+  <text x="580" y="652" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" letter-spacing="2.5" fill="#3D4D66">MOBIN HASANGHASEMI · PORTFOLIO</text>
 </svg>
