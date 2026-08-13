@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210">
+  <defs>
+    <linearGradient id="ng" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F5F8FE"/>
+      <stop offset="1" stop-color="#9FB0C7"/>
+    </linearGradient>
+    <linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="240%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="600" y="102" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="84" font-weight="700" letter-spacing="2" fill="url(#ng)" filter="url(#glow)">Mobin Hasanghasemi</text>
+  <text x="600" y="160" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="12" fill="url(#tg)">MID LEVEL BACKEND DEVELOPER</text>
+  <line x1="470" y1="186" x2="730" y2="186" stroke="url(#tg)" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+</svg>

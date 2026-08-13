@@ -1,183 +1,136 @@
+<!-- ============ HERO ============ -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Vazirmatn&weight=900&size=42&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Mobin+Hasanghasemi;🔥+Mid+Level+Backend+Developer+🔥;Python+%7C+Django+%7C+OpenCV;Coding+the+Future+%7C+18+years+old+🇮🇷" />
+<img src="hiro.png" width="860" />
 
-<br>
+<img src="assets/hero-name.svg" width="780" />
 
-<a href="mailto:mobin.hasanghasemi.m@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/mobin-hasanghasemi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/mobinhasanghasemi" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://t.me/mobinhasanghasemi" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://github.com/mobinhasanghasemi">
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
+</a>
+<a href="https://github.com/mobinhasanghasemi">
+<img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=4ADE80" alt="Django" />
+</a>
+<a href="https://github.com/mobinhasanghasemi">
+<img src="https://img.shields.io/badge/DRF-0D1117?style=for-the-badge&logo=django&logoColor=FB7185" alt="Django REST Framework" />
+</a>
+<a href="https://github.com/mobinhasanghasemi">
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=60A5FA" alt="PostgreSQL" />
+</a>
 
 </div>
 
----
+<br>
 
-## 🧑‍💻 **درباره من**
+<!-- ============ 01 ABOUT ============ -->
+
+<img src="assets/headers/01-about.svg" width="100%" />
 
 <table align="center">
 <tr>
-<td width="60%">
-
-### 👋 **سلام! من مبین هستم**
-
-🔹 **سن:** 18 سال | **تجربه:** ۲ سال تخصصی Django  
-🔹 **موقعیت:** ایران، تهران 🇮🇷  
-🔹 **تخصص:** Backend Development, API Design, Microservices  
-🔹 **در حال یادگیری:** Docker, Kubernetes  
-🔹 **هدف:** تبدیل شدن به یک Software Architect حرفه‌ای
-
+<td width="44%" align="center" valign="middle">
+<img src="About%20Me.png" width="400" />
 </td>
-<td width="40%" align="center">
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NkN2M5bGQ5cmtsdmZ4Y3o0d3FpOWF3cG14NGl5Y2Y2Nnl6Y2Z3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-
+<td width="56%" valign="middle">
+<img src="assets/about-card.svg" width="100%" />
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 📊 **آمار گیت‌هاب**
+<!-- ============ 02 GITHUB STATS ============ -->
 
-<div align="center">
+<img src="assets/headers/02-stats.svg" width="100%" />
 
+<p align="center">
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=mobinhasanghasemi&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=B9C6D8&icon_color=A78BFA&ring_color=38BDF8&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mobinhasanghasemi&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=38BDF8&text_color=B9C6D8&icon_color=A78BFA&bg_color=0D1117" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mobinhasanghasemi&theme=radical&hide_border=false&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" width="60%" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mobinhasanghasemi&theme=radical&no-frame=false&row=2&column=4&margin-w=15&margin-h=15" width="80%" />
-
-</div>
-
----
-
-## 🛠️ **مهارت‌های من**
-
-<div align="center">
-
-### 🚀 **تخصصی‌ترین مهارت‌ها**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-### 📚 **سایر مهارت‌ها**
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-## 📈 **نمودار فعالیت گیت‌هاب**
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mobinhasanghasemi&theme=radical&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&hide_border=false&border_color=FF6B6B" width="90%" />
-
-</div>
-
----
-
-## 🏆 **دستاوردها**
-
-<div align="center">
-
-[![Django](https://img.shields.io/badge/Django-Expert-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/mobinhasanghasemi)
-[![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mobinhasanghasemi)
-[![OpenCV](https://img.shields.io/badge/OpenCV-Intermediate-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/mobinhasanghasemi)
-[![Git](https://img.shields.io/badge/Git-Master-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/mobinhasanghasemi)
-
-</div>
-
----
-
-## 🔥 **آمار روزانه**
-
-<div align="center">
-
-<!-- بازدیدکنندگان پروفایل -->
-<img src="https://komarev.com/ghpvc/?username=mobinhasanghasemi&label=👁️+Profile+Views&color=FF6B6B&style=for-the-badge" />
-
-<!-- آخرین آپدیت -->
-<img src="https://img.shields.io/badge/📅+Last+Update-May+2026-FF6B6B?style=for-the-badge" />
-
-<!-- Stars -->
-<img src="https://img.shields.io/badge/⭐+Total+Stars-coming+soon-FFD700?style=for-the-badge" />
-
-</div>
-
----
-
-## ✨ **نقل قول انگیزشی روز**
-
-<div align="center">
-
-> *"The only way to do great work is to love what you do."*  
-> — **Steve Jobs**
 
 <br>
 
-> *"Code is like humor. When you have to explain it, it's bad."*  
-> — **Cory House**
+<!-- ============ 03 SKILLS ============ -->
 
-</div>
+<img src="assets/headers/03-skills.svg" width="100%" />
 
----
-
-## 📫 **راه‌های ارتباطی**
-
-<div align="center">
-
-| پلتفرم | لینک |
-|---------|------|
-| 📧 **Gmail** | [mobin.hasanghasemi.m@gmail.com](mailto:mobin.hasanghasemi.m@gmail.com) |
-| 💬 **Telegram** | [@mobinhasanghasemi](https://t.me/mobinhasanghasemi) |
-| 🔗 **LinkedIn** | [mobin-hasanghasemi](https://linkedin.com/in/mobin-hasanghasemi) |
-| 🐙 **GitHub** | [mobinhasanghasemi](https://github.com/mobinhasanghasemi) |
-
-</div>
-
----
-
-## 🎬 **لحظاتی از دنیای برنامه‌نویسی**
-
-<div align="center">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RxbW1jM3locDc0c2Nudzh6bnZ5NHRxbmRjdW5xYmtudGI4cGxvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="300" />
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3UxZ2Q1eWZoeWlpaWJvN2x3YzZvNGRoY3Q0c2I4c3B4a3N4bG5uZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FwcmVjdWt5Y2h6anJkY3A5Y2JkNXZoaWZ5aHZ6Z2R0cHl5c3ZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=900&lines=💙+Thanks+for+visiting+my+profile!+💙;✨+Let's+collaborate+and+build+something+amazing!+✨;🚀+Always+open+to+new+opportunities!+🚀;🔥+Open+for+collaboration+and+job+offers!+🔥" />
+<img src="assets/skills.svg" width="100%" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=12" width="100%" />
+<!-- ============ 04 TECH STACK ============ -->
+
+<img src="assets/headers/04-stack.svg" width="100%" />
+
+<img src="assets/stack.svg" width="100%" />
+
+<br>
+
+<!-- ============ 05 PROJECTS ============ -->
+
+<img src="assets/headers/05-projects.svg" width="100%" />
+
+<img src="assets/projects.svg" width="100%" />
+
+<br>
+
+<!-- ============ 06 ACTIVITY ============ -->
+
+<img src="assets/headers/06-activity.svg" width="100%" />
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/38BDF8/mobinhasanghasemi" width="88%" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mobinhasanghasemi&theme=dark&hide_border=true&background=0D1117&stroke=21262D&ring=38BDF8&fire=A855F7&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=8B949E" width="60%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mobinhasanghasemi&theme=github-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=A855F7&point=22D3EE&area=true&area_color=1A2536" width="92%" />
+
+</p>
+
+<br>
+
+<!-- ============ 07 VISION ============ -->
+
+<img src="assets/headers/07-vision.svg" width="100%" />
+
+<img src="assets/vision.svg" width="100%" />
+
+<br>
+
+<!-- ============ 08 CONTACT ============ -->
+
+<img src="assets/headers/08-contact.svg" width="100%" />
+
+<div align="center">
+
+<a href="https://github.com/mobinhasanghasemi">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/mobin-hasanghasemi-067154384">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+</a>
+<a href="mailto:mobin.hasanghasemi.m@gmail.com">
+<img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
+</a>
+<a href="https://devobin.ir">
+<img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=link&logoColor=FFFFFF" alt="Website" />
+</a>
 
 </div>
+
+<br>
+<br>
+
+<p align="center">
+<sub>M O B I N &nbsp; H A S A N G H A S E M I</sub>
+<br><br>
+<sub>Crafted with Django and a dark theme. Open to collaboration and new opportunities.</sub>
+</p>
